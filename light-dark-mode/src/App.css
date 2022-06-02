@@ -161,6 +161,22 @@ color: white;
   background: rgba(255, 247, 247, 0.299);
 }
 
+#light .submit{
+  color: white;
+}
+
+#dark .submit{
+  color:black;
+}
+
+
+#light a{
+  color: rgb(0, 0, 0);
+}
+
+#dark a{
+  color:#a519d7;
+}
 
 
 /* this is to switch the labels text color when different modes are avaliable */
